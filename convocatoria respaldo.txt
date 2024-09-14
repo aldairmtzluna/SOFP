@@ -1,0 +1,836 @@
+<html lang="es-MX">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <title>Convocatoria</title>
+    <meta name="robots" content="max-image-preview:large">
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//s.w.org">
+
+    <script type="text/javascript">
+        window._wpemojiSettings = {
+            "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/",
+            "ext": ".png",
+            "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/",
+            "svgExt": ".svg",
+            "source": {
+                "concatemoji": "https:\/\/sctinnova.sct.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8"
+            }
+        };
+        ! function(e, a, t) {
+            var n, r, o, i = a.createElement("canvas"),
+                    p = i.getContext && i.getContext("2d");
+
+            function s(e, t) {
+                var a = String.fromCharCode;
+                p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, e), 0, 0);
+                e = i.toDataURL();
+                return p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, t), 0, 0), e === i.toDataURL()
+            }
+
+            function c(e) {
+                var t = a.createElement("script");
+                t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t)
+            }
+
+            for (o = Array("flag", "emoji"), t.supports = {
+                everything: !0,
+                everythingExceptFlag: !0
+            }, r = 0; r < o.length; r++) t.supports[o[r]] = function(e) {
+                if (!p || !p.fillText) return !1;
+                switch (p.textBaseline = "top", p.font = "600 32px Arial", e) {
+                    case "flag":
+                        return s([127987, 65039, 8205, 9895, 65039], [127987, 65039, 8203, 9895, 65039]) ? !1 : !s([
+                            55356, 56826, 55356, 56819
+                        ], [55356, 56826, 8203, 55356, 56819]) && !s([55356, 57332, 56128, 56423, 56128, 56418,
+                            56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447
+                        ], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203,
+                            56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447
+                        ]);
+                    case "emoji":
+                        return !s([10084, 65039, 8205, 55357, 56613], [10084, 65039, 8203, 55357, 56613])
+                }
+                return !1
+            }(o[r]), t.supports.everything = t.supports.everything && t.supports[o[r]], "flag" !== o[r] && (t.supports
+                    .everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[o[r]]);
+            t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t
+                    .readyCallback = function() {
+                t.DOMReady = !0
+            }, t.supports.everything || (n = function() {
+                t.readyCallback()
+            }, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !
+                    1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function() {
+                "complete" === a.readyState && t.readyCallback()
+            })), (n = t.source || {}).concatemoji ? c(n.concatemoji) : n.wpemoji && n.twemoji && (c(n.twemoji), c(n
+                    .wpemoji)))
+        }(window, document, window._wpemojiSettings);
+    </script>
+    <script src="https://sctinnova.sct.gob.mx/wp-includes/js/wp-emoji-release.min.js?ver=5.8" type="text/javascript"
+            defer=""></script>
+    <style type="text/css">
+        img.wp-smiley,
+        img.emoji {
+            display: inline !important;
+            border: none !important;
+            box-shadow: none !important;
+            height: 1em !important;
+            width: 1em !important;
+            margin: 0 .07em !important;
+            vertical-align: -0.1em !important;
+            background: none !important;
+            padding: 0 !important;
+        }
+
+    </style>
+    <link rel="stylesheet" id="wp-block-library-css"
+          href="https://sctinnova.sct.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=5.8" type="text/css"
+          media="all">
+    <link rel="stylesheet" id="onepress-fonts-css"
+          href="https://fonts.googleapis.com/css?family=Raleway%3A400%2C500%2C600%2C700%2C300%2C100%2C800%2C900%7COpen+Sans%3A400%2C300%2C300italic%2C400italic%2C600%2C600italic%2C700%2C700italic&amp;subset=latin%2Clatin-ext&amp;ver=2.2.7"
+          type="text/css" media="all">
+    <link rel="stylesheet" id="onepress-animate-css"
+          href="https://sctinnova.sct.gob.mx/wp-content/themes/onepress/assets/css/animate.min.css?ver=2.2.7"
+          type="text/css" media="all">
+    <link rel="stylesheet" id="onepress-fa-css"
+          href="https://sctinnova.sct.gob.mx/wp-content/themes/onepress/assets/css/font-awesome.min.css?ver=4.7.0"
+          type="text/css" media="all">
+    <link rel="stylesheet" id="onepress-bootstrap-css"
+          href="https://sctinnova.sct.gob.mx/wp-content/themes/onepress/assets/css/bootstrap.min.css?ver=2.2.7"
+          type="text/css" media="all">
+    <link rel="stylesheet" id="onepress-style-css"
+          href="https://sctinnova.sct.gob.mx/wp-content/themes/onepress/style.css?ver=5.8" type="text/css" media="all">
+    <style id="onepress-style-inline-css" type="text/css">
+        #main .video-section section.hero-slideshow-wrapper {
+            background: transparent
+        }
+
+        .hero-slideshow-wrapper:after {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.3);
+            display: block;
+            content: ""
+        }
+
+        .body-desktop .parallax-hero .hero-slideshow-wrapper:after {
+            display: none !important
+        }
+
+        #parallax-hero>.parallax-bg::before {
+            background-color: rgba(0, 0, 0, 0.3);
+            opacity: 1
+        }
+
+        .body-desktop .parallax-hero .hero-slideshow-wrapper:after {
+            display: none !important
+        }
+
+        a,
+        .screen-reader-text:hover,
+        .screen-reader-text:active,
+        .screen-reader-text:focus,
+        .header-social a,
+        .onepress-menu a:hover,
+        .onepress-menu ul li a:hover,
+        .onepress-menu li.onepress-current-item>a,
+        .onepress-menu ul li.current-menu-item>a,
+        .onepress-menu>li a.menu-actived,
+        .onepress-menu.onepress-menu-mobile li.onepress-current-item>a,
+        .site-footer a,
+        .site-footer .footer-social a:hover,
+        .site-footer .btt a:hover,
+        .highlight,
+        #comments .comment .comment-wrapper .comment-meta .comment-time:hover,
+        #comments .comment .comment-wrapper .comment-meta .comment-reply-link:hover,
+        #comments .comment .comment-wrapper .comment-meta .comment-edit-link:hover,
+        .btn-theme-primary-outline,
+        .sidebar .widget a:hover,
+        .section-services .service-item .service-image i,
+        .counter_item .counter__number,
+        .team-member .member-thumb .member-profile a:hover,
+        .icon-background-default {
+            color: #b3cd2c
+        }
+
+        input[type="reset"],
+        input[type="submit"],
+        input[type="submit"],
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        input[type="submit"]:hover .nav-links a:hover,
+        .btn-theme-primary,
+        .btn-theme-primary-outline:hover,
+        .section-testimonials .card-theme-primary,
+        .woocommerce #respond input#submit,
+        .woocommerce a.button,
+        .woocommerce button.button,
+        .woocommerce input.button,
+        .woocommerce button.button.alt,
+        .pirate-forms-submit-button,
+        .pirate-forms-submit-button:hover,
+        input[type="reset"],
+        input[type="submit"],
+        input[type="submit"],
+        .pirate-forms-submit-button,
+        .contact-form div.wpforms-container-full .wpforms-form .wpforms-submit,
+        .contact-form div.wpforms-container-full .wpforms-form .wpforms-submit:hover,
+        .nav-links a:hover,
+        .nav-links a.current,
+        .nav-links .page-numbers:hover,
+        .nav-links .page-numbers.current {
+            background: #b3cd2c
+        }
+
+        .btn-theme-primary-outline,
+        .btn-theme-primary-outline:hover,
+        .pricing__item:hover,
+        .section-testimonials .card-theme-primary,
+        .entry-content blockquote {
+            border-color: #b3cd2c
+        }
+
+        .feature-item:hover .icon-background-default {
+            color: #ffffff
+        }
+
+        .onepress-menu>li>a {
+            color: #b3cd2c
+        }
+
+      /**  #footer-widgets {} **/
+
+        .gallery-carousel .g-item {
+            padding: 0px 10px
+        }
+
+        .gallery-carousel {
+            margin-left: -10px;
+            margin-right: -10px
+        }
+
+        .gallery-grid .g-item,
+        .gallery-masonry .g-item .inner {
+            padding: 10px
+        }
+
+        .gallery-grid,
+        .gallery-masonry {
+            margin: -10px
+        }
+
+    </style>
+    <link rel="stylesheet" id="onepress-gallery-lightgallery-css"
+          href="https://sctinnova.sct.gob.mx/wp-content/themes/onepress/assets/css/lightgallery.css?ver=5.8"
+          type="text/css" media="all">
+    <link rel="stylesheet" id="pojo-a11y-css"
+          href="https://sctinnova.sct.gob.mx/wp-content/plugins/pojo-accessibility/assets/css/style.min.css?ver=1.0.0"
+          type="text/css" media="all">
+    <script type="text/javascript" src="https://sctinnova.sct.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.6.0"
+            id="jquery-core-js"></script>
+    <script type="text/javascript"
+            src="https://sctinnova.sct.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js">
+    </script>
+
+
+    <style type="text/css">
+        #pojo-a11y-toolbar .pojo-a11y-toolbar-toggle a {
+            background-color: #2e58a6;
+            color: #ffffff;
+            border-radius: 25px;
+        }
+
+        #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay,
+        #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items.pojo-a11y-links {
+            border-color: #b3cd2c;
+        }
+
+        body.pojo-a11y-focusable a:focus {
+            outline-style: solid !important;
+            outline-width: 1px !important;
+            outline-color: #FF0000 !important;
+        }
+
+        #pojo-a11y-toolbar {
+            top: 100px !important;
+        }
+
+        #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay {
+            background-color: #ffffff;
+        }
+
+        #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items li.pojo-a11y-toolbar-item a,
+        #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay p.pojo-a11y-toolbar-title {
+            color: #000000;
+        }
+
+        #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items li.pojo-a11y-toolbar-item a.active {
+            background-color: #b3cd2c;
+            color: #ffffff;
+        }
+
+        @media (max-width: 767px) {
+            #pojo-a11y-toolbar {
+                top: 70px !important;
+            }
+        }
+
+    </style>
+    <link rel="icon" href="https://sctinnova.sct.gob.mx/wp-content/uploads/2021/06/favicon-150x150.png" sizes="32x32">
+    <link rel="icon" href="https://sctinnova.sct.gob.mx/wp-content/uploads/2021/06/favicon-300x300.png"
+          sizes="192x192">
+    <link rel="apple-touch-icon" href="https://sctinnova.sct.gob.mx/wp-content/uploads/2021/06/favicon-300x300.png">
+    <meta name="msapplication-TileImage"
+          content="https://sctinnova.sct.gob.mx/wp-content/uploads/2021/06/favicon-300x300.png">
+    <style id="fit-vids-style">
+        .fluid-width-video-wrapper {
+            width: 100%;
+            position: relative;
+            padding: 0;
+        }
+
+        .fluid-width-video-wrapper iframe,
+        .fluid-width-video-wrapper object,
+        .fluid-width-video-wrapper embed {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+    </style>
+</head>
+
+
+<body class="page-template-default page page-id-14 wp-custom-logo body-desktop pojo-a11y-focusable"><a
+        id="pojo-a11y-skip-content" class="pojo-skip-link pojo-skip-content" tabindex="1" accesskey="s" href="#content"
+        role="link">Skip to content</a>
+<nav id="pojo-a11y-toolbar" class="pojo-a11y-toolbar-left" role="navigation">
+    <div class="pojo-a11y-toolbar-toggle">
+        <a class="pojo-a11y-toolbar-link pojo-a11y-toolbar-toggle-link" href="javascript:void(0);"
+           title="Herramientas Inclusivas" role="link">
+            <span class="pojo-sr-only sr-only">Open toolbar</span>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="currentColor" width="1em">
+                <g>
+                    <path
+                            d="M60.4,78.9c-2.2,4.1-5.3,7.4-9.2,9.8c-4,2.4-8.3,3.6-13,3.6c-6.9,0-12.8-2.4-17.7-7.3c-4.9-4.9-7.3-10.8-7.3-17.7c0-5,1.4-9.5,4.1-13.7c2.7-4.2,6.4-7.2,10.9-9.2l-0.9-7.3c-6.3,2.3-11.4,6.2-15.3,11.8C7.9,54.4,6,60.6,6,67.3c0,5.8,1.4,11.2,4.3,16.1s6.8,8.8,11.7,11.7c4.9,2.9,10.3,4.3,16.1,4.3c7,0,13.3-2.1,18.9-6.2c5.7-4.1,9.6-9.5,11.7-16.2l-5.7-11.4C63.5,70.4,62.5,74.8,60.4,78.9z">
+                    </path>
+                    <path
+                            d="M93.8,71.3l-11.1,5.5L70,51.4c-0.6-1.3-1.7-2-3.2-2H41.3l-0.9-7.2h22.7v-7.2H39.6L37.5,19c2.5,0.3,4.8-0.5,6.7-2.3c1.9-1.8,2.9-4,2.9-6.6c0-2.5-0.9-4.6-2.6-6.3c-1.8-1.8-3.9-2.6-6.3-2.6c-2,0-3.8,0.6-5.4,1.8c-1.6,1.2-2.7,2.7-3.2,4.6c-0.3,1-0.4,1.8-0.3,2.3l5.4,43.5c0.1,0.9,0.5,1.6,1.2,2.3c0.7,0.6,1.5,0.9,2.4,0.9h26.4l13.4,26.7c0.6,1.3,1.7,2,3.2,2c0.6,0,1.1-0.1,1.6-0.4L97,77.7L93.8,71.3z">
+                    </path>
+                </g>
+            </svg>
+        </a>
+    </div>
+    <div class="pojo-a11y-toolbar-overlay">
+        <div class="pojo-a11y-toolbar-inner">
+            <p class="pojo-a11y-toolbar-title">Herramientas Inclusivas</p>
+
+            <ul class="pojo-a11y-toolbar-items pojo-a11y-tools">
+                <li class="pojo-a11y-toolbar-item">
+                    <a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-resize-font pojo-a11y-btn-resize-plus"
+                       data-action="resize-plus" data-action-group="resize" tabindex="-1" role="link">
+                            <span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+                                                                      width="1em" viewBox="0 0 448 448">
+                                    <path fill="currentColor"
+                                          d="M256 200v16c0 4.25-3.75 8-8 8h-56v56c0 4.25-3.75 8-8 8h-16c-4.25 0-8-3.75-8-8v-56h-56c-4.25 0-8-3.75-8-8v-16c0-4.25 3.75-8 8-8h56v-56c0-4.25 3.75-8 8-8h16c4.25 0 8 3.75 8 8v56h56c4.25 0 8 3.75 8 8zM288 208c0-61.75-50.25-112-112-112s-112 50.25-112 112 50.25 112 112 112 112-50.25 112-112zM416 416c0 17.75-14.25 32-32 32-8.5 0-16.75-3.5-22.5-9.5l-85.75-85.5c-29.25 20.25-64.25 31-99.75 31-97.25 0-176-78.75-176-176s78.75-176 176-176 176 78.75 176 176c0 35.5-10.75 70.5-31 99.75l85.75 85.75c5.75 5.75 9.25 14 9.25 22.5z" "=""></path></svg></span><span class="
+
+
+
+
+
+
+
+                                        pojo-a11y-toolbar-text">
+                                        Incrementar
+                                        Texto</span>
+                    </a>
+                </li>
+
+                <li class="pojo-a11y-toolbar-item">
+                    <a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-resize-font pojo-a11y-btn-resize-minus"
+                       data-action="resize-minus" data-action-group="resize" tabindex="-1" role="link">
+                            <span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+                                                                      width="1em" viewBox="0 0 448 448">
+                                    <path fill="currentColor"
+                                          d="M256 200v16c0 4.25-3.75 8-8 8h-144c-4.25 0-8-3.75-8-8v-16c0-4.25 3.75-8 8-8h144c4.25 0 8 3.75 8 8zM288 208c0-61.75-50.25-112-112-112s-112 50.25-112 112 50.25 112 112 112 112-50.25 112-112zM416 416c0 17.75-14.25 32-32 32-8.5 0-16.75-3.5-22.5-9.5l-85.75-85.5c-29.25 20.25-64.25 31-99.75 31-97.25 0-176-78.75-176-176s78.75-176 176-176 176 78.75 176 176c0 35.5-10.75 70.5-31 99.75l85.75 85.75c5.75 5.75 9.25 14 9.25 22.5z">
+                                    </path>
+                                </svg></span><span class="pojo-a11y-toolbar-text">Decrementar Texto</span> </a>
+                </li>
+
+                <li class="pojo-a11y-toolbar-item">
+                    <a href="#"
+                       class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-grayscale"
+                       data-action="grayscale" data-action-group="schema" tabindex="-1" role="link">
+                            <span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+                                                                      width="1em" viewBox="0 0 448 448">
+                                    <path fill="currentColor"
+                                          d="M15.75 384h-15.75v-352h15.75v352zM31.5 383.75h-8v-351.75h8v351.75zM55 383.75h-7.75v-351.75h7.75v351.75zM94.25 383.75h-7.75v-351.75h7.75v351.75zM133.5 383.75h-15.5v-351.75h15.5v351.75zM165 383.75h-7.75v-351.75h7.75v351.75zM180.75 383.75h-7.75v-351.75h7.75v351.75zM196.5 383.75h-7.75v-351.75h7.75v351.75zM235.75 383.75h-15.75v-351.75h15.75v351.75zM275 383.75h-15.75v-351.75h15.75v351.75zM306.5 383.75h-15.75v-351.75h15.75v351.75zM338 383.75h-15.75v-351.75h15.75v351.75zM361.5 383.75h-15.75v-351.75h15.75v351.75zM408.75 383.75h-23.5v-351.75h23.5v351.75zM424.5 383.75h-8v-351.75h8v351.75zM448 384h-15.75v-352h15.75v352z">
+                                    </path>
+                                </svg></span><span class="pojo-a11y-toolbar-text">Escala Grises</span> </a>
+                </li>
+
+                <li class="pojo-a11y-toolbar-item">
+                    <a href="#"
+                       class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-high-contrast"
+                       data-action="high-contrast" data-action-group="schema" tabindex="-1" role="link">
+                            <span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+                                                                      width="1em" viewBox="0 0 448 448">
+                                    <path fill="currentColor"
+                                          d="M192 360v-272c-75 0-136 61-136 136s61 136 136 136zM384 224c0 106-86 192-192 192s-192-86-192-192 86-192 192-192 192 86 192 192z" "=""></path></svg></span><span class="
+
+
+
+
+
+
+                                        pojo-a11y-toolbar-text">
+                                        Alto
+                                        Contraste</span> </a>
+                </li>
+
+                <li class="pojo-a11y-toolbar-item">
+                    <a href="#"
+                       class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-negative-contrast"
+                       data-action="negative-contrast" data-action-group="schema" tabindex="-1" role="link">
+
+                            <span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+                                                                      width="1em" viewBox="0 0 448 448">
+                                    <path fill="currentColor"
+                                          d="M416 240c-23.75-36.75-56.25-68.25-95.25-88.25 10 17 15.25 36.5 15.25 56.25 0 61.75-50.25 112-112 112s-112-50.25-112-112c0-19.75 5.25-39.25 15.25-56.25-39 20-71.5 51.5-95.25 88.25 42.75 66 111.75 112 192 112s149.25-46 192-112zM236 144c0-6.5-5.5-12-12-12-41.75 0-76 34.25-76 76 0 6.5 5.5 12 12 12s12-5.5 12-12c0-28.5 23.5-52 52-52 6.5 0 12-5.5 12-12zM448 240c0 6.25-2 12-5 17.25-46 75.75-130.25 126.75-219 126.75s-173-51.25-219-126.75c-3-5.25-5-11-5-17.25s2-12 5-17.25c46-75.5 130.25-126.75 219-126.75s173 51.25 219 126.75c3 5.25 5 11 5 17.25z">
+                                    </path>
+                                </svg></span><span class="pojo-a11y-toolbar-text">Contraste Negativo</span> </a>
+                </li>
+
+                <li class="pojo-a11y-toolbar-item">
+                    <a href="#"
+                       class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-light-background"
+                       data-action="light-background" data-action-group="schema" tabindex="-1" role="link">
+                            <span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+                                                                      width="1em" viewBox="0 0 448 448">
+                                    <path fill="currentColor"
+                                          d="M184 144c0 4.25-3.75 8-8 8s-8-3.75-8-8c0-17.25-26.75-24-40-24-4.25 0-8-3.75-8-8s3.75-8 8-8c23.25 0 56 12.25 56 40zM224 144c0-50-50.75-80-96-80s-96 30-96 80c0 16 6.5 32.75 17 45 4.75 5.5 10.25 10.75 15.25 16.5 17.75 21.25 32.75 46.25 35.25 74.5h57c2.5-28.25 17.5-53.25 35.25-74.5 5-5.75 10.5-11 15.25-16.5 10.5-12.25 17-29 17-45zM256 144c0 25.75-8.5 48-25.75 67s-40 45.75-42 72.5c7.25 4.25 11.75 12.25 11.75 20.5 0 6-2.25 11.75-6.25 16 4 4.25 6.25 10 6.25 16 0 8.25-4.25 15.75-11.25 20.25 2 3.5 3.25 7.75 3.25 11.75 0 16.25-12.75 24-27.25 24-6.5 14.5-21 24-36.75 24s-30.25-9.5-36.75-24c-14.5 0-27.25-7.75-27.25-24 0-4 1.25-8.25 3.25-11.75-7-4.5-11.25-12-11.25-20.25 0-6 2.25-11.75 6.25-16-4-4.25-6.25-10-6.25-16 0-8.25 4.5-16.25 11.75-20.5-2-26.75-24.75-53.5-42-72.5s-25.75-41.25-25.75-67c0-68 64.75-112 128-112s128 44 128 112z">
+                                    </path>
+                                </svg></span><span class="pojo-a11y-toolbar-text">Fondo Tenue</span> </a>
+                </li>
+
+                <li class="pojo-a11y-toolbar-item">
+                    <a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-links-underline"
+                       data-action="links-underline" data-action-group="toggle" tabindex="-1" role="link">
+                            <span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+                                                                      width="1em" viewBox="0 0 448 448">
+                                    <path fill="currentColor"
+                                          d="M364 304c0-6.5-2.5-12.5-7-17l-52-52c-4.5-4.5-10.75-7-17-7-7.25 0-13 2.75-18 8 8.25 8.25 18 15.25 18 28 0 13.25-10.75 24-24 24-12.75 0-19.75-9.75-28-18-5.25 5-8.25 10.75-8.25 18.25 0 6.25 2.5 12.5 7 17l51.5 51.75c4.5 4.5 10.75 6.75 17 6.75s12.5-2.25 17-6.5l36.75-36.5c4.5-4.5 7-10.5 7-16.75zM188.25 127.75c0-6.25-2.5-12.5-7-17l-51.5-51.75c-4.5-4.5-10.75-7-17-7s-12.5 2.5-17 6.75l-36.75 36.5c-4.5 4.5-7 10.5-7 16.75 0 6.5 2.5 12.5 7 17l52 52c4.5 4.5 10.75 6.75 17 6.75 7.25 0 13-2.5 18-7.75-8.25-8.25-18-15.25-18-28 0-13.25 10.75-24 24-24 12.75 0 19.75 9.75 28 18 5.25-5 8.25-10.75 8.25-18.25zM412 304c0 19-7.75 37.5-21.25 50.75l-36.75 36.5c-13.5 13.5-31.75 20.75-50.75 20.75-19.25 0-37.5-7.5-51-21.25l-51.5-51.75c-13.5-13.5-20.75-31.75-20.75-50.75 0-19.75 8-38.5 22-52.25l-22-22c-13.75 14-32.25 22-52 22-19 0-37.5-7.5-51-21l-52-52c-13.75-13.75-21-31.75-21-51 0-19 7.75-37.5 21.25-50.75l36.75-36.5c13.5-13.5 31.75-20.75 50.75-20.75 19.25 0 37.5 7.5 51 21.25l51.5 51.75c13.5 13.5 20.75 31.75 20.75 50.75 0 19.75-8 38.5-22 52.25l22 22c13.75-14 32.25-22 52-22 19 0 37.5 7.5 51 21l52 52c13.75 13.75 21 31.75 21 51z">
+                                    </path>
+                                </svg></span><span class="pojo-a11y-toolbar-text">Vinculos Subrayados</span> </a>
+                </li>
+
+                <li class="pojo-a11y-toolbar-item">
+                    <a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-readable-font"
+                       data-action="readable-font" data-action-group="toggle" tabindex="-1" role="link">
+                            <span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+                                                                      width="1em" viewBox="0 0 448 448">
+                                    <path fill="currentColor"
+                                          d="M181.25 139.75l-42.5 112.5c24.75 0.25 49.5 1 74.25 1 4.75 0 9.5-0.25 14.25-0.5-13-38-28.25-76.75-46-113zM0 416l0.5-19.75c23.5-7.25 49-2.25 59.5-29.25l59.25-154 70-181h32c1 1.75 2 3.5 2.75 5.25l51.25 120c18.75 44.25 36 89 55 133 11.25 26 20 52.75 32.5 78.25 1.75 4 5.25 11.5 8.75 14.25 8.25 6.5 31.25 8 43 12.5 0.75 4.75 1.5 9.5 1.5 14.25 0 2.25-0.25 4.25-0.25 6.5-31.75 0-63.5-4-95.25-4-32.75 0-65.5 2.75-98.25 3.75 0-6.5 0.25-13 1-19.5l32.75-7c6.75-1.5 20-3.25 20-12.5 0-9-32.25-83.25-36.25-93.5l-112.5-0.5c-6.5 14.5-31.75 80-31.75 89.5 0 19.25 36.75 20 51 22 0.25 4.75 0.25 9.5 0.25 14.5 0 2.25-0.25 4.5-0.5 6.75-29 0-58.25-5-87.25-5-3.5 0-8.5 1.5-12 2-15.75 2.75-31.25 3.5-47 3.5z">
+                                    </path>
+                                </svg></span><span class="pojo-a11y-toolbar-text">Fuente legible</span> </a>
+                </li>
+                <li class="pojo-a11y-toolbar-item">
+                    <a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-reset" data-action="reset" tabindex="-1"
+                       role="link">
+                            <span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+                                                                      width="1em" viewBox="0 0 448 448">
+                                    <path fill="currentColor"
+                                          d="M384 224c0 105.75-86.25 192-192 192-57.25 0-111.25-25.25-147.75-69.25-2.5-3.25-2.25-8 0.5-10.75l34.25-34.5c1.75-1.5 4-2.25 6.25-2.25 2.25 0.25 4.5 1.25 5.75 3 24.5 31.75 61.25 49.75 101 49.75 70.5 0 128-57.5 128-128s-57.5-128-128-128c-32.75 0-63.75 12.5-87 34.25l34.25 34.5c4.75 4.5 6 11.5 3.5 17.25-2.5 6-8.25 10-14.75 10h-112c-8.75 0-16-7.25-16-16v-112c0-6.5 4-12.25 10-14.75 5.75-2.5 12.75-1.25 17.25 3.5l32.5 32.25c35.25-33.25 83-53 132.25-53 105.75 0 192 86.25 192 192z">
+                                    </path>
+                                </svg></span>
+                        <span class="pojo-a11y-toolbar-text">Reset</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div id="page" class="hfeed site">
+    <a class="skip-link screen-reader-text" href="#content" role="link">Saltar al contenido</a>
+    <div id="header-section" class="h-on-top no-transparent">
+        <div class="followWrap" style="height: 97px;">
+            <header id="masthead"
+                    class="site-header header-contained is-sticky no-scroll no-t h-on-top header-fixed" role="banner"
+                    style="top: 0px;">
+                <div class="container">
+                    <div class="site-branding">
+                        <div class="site-brand-inner has-logo-img no-desc">
+                            <div class="site-logo-div"><a href="{{ route('grafica-index') }}"
+                                                          class="custom-logo-link  no-t-logo" rel="home" itemprop="url" role="link"><img
+                                            width="319" height="97"
+                                            src="../wp-content/uploads/2021/06/cropped-logoWeb_fv2.png"
+                                            class="custom-logo" alt="" loading="lazy" itemprop="logo"
+                                            srcset="../wp-content/uploads/2021/06/cropped-logoWeb_fv2.png 319w, ../wp-content/uploads/2021/06/cropped-logoWeb-300x91.png 300w"
+                                            sizes="(max-width: 319px) 100vw, 319px"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="header-right-wrapper">
+                        <a href="#" id="nav-toggle" role="link">Menú<span></span></a>
+                        <nav id="site-navigation" class="main-navigation" role="navigation">
+                            <ul class="onepress-menu">
+                            <li id="menu-item-28"
+                                    class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-28">
+                                    <a href={{ route('feria') }} aria-current="page" role="link"
+                                       style="text-transform: none;font-size: large;">Principal</a>
+                                </li>
+                                <li id="menu-item-28"
+                                    class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-28">
+                                    <a href={{ route('feria2') }} aria-current="page" role="link"
+                                       style="text-transform: none;font-size: large;">Introducción</a>
+                                </li>
+                                <li id="menu-item-29"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a
+                                            href={{ route('convocatoria') }} role="link"
+                                            style="text-transform: none;font-size: large;">Convocatoria</a></li>
+                                <!--<li id="menu-item-108"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108">
+                                    <a href="{{ route('registro') }}" role="link"
+                                       style="text-transform: none;font-size: large;">Registro</a>
+                                </li>-->
+                                <li id="menu-item-108"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108">
+                                    <a href={{ route('registro') }} role="link"
+                                       style="text-transform: none;font-size: large;">Registro</a>
+                                </li>
+                                <!--li id="menu-item-108"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106">
+                                        <a href="{{ route('getGanadores') }}" target="_parent" role="link"
+                                            style="text-transform: none;font-size: large;">Ganadores</a>
+                                    </li-->
+                                <!--<li id="menu-item-108"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108">
+                                    <a href="{{ route('login') }}" role="link"
+                                       style="text-transform: none;font-size: large;">Acceso</a>
+                                </li>-->
+                                <li id="menu-item-108"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108">
+                                    <a href={{ route('login') }} role="link"
+                                       style="text-transform: none;font-size: large;">Acceso</a>
+                                </li>
+                            </ul>
+                        </nav>
+                        <!-- #site-navigation -->
+                    </div>
+                </div>
+            </header>
+        </div><!-- #masthead -->
+    </div>
+    <img src="../img/Baner_convocatoria_SICTInnova_FV_2022b.jpg" width="100%"><br>
+
+    <div id="content" class="site-content">
+        <div id="content-inside" class="container no-sidebar">
+            <div id="primary" class="content-area">
+                <main id="main" class="site-main" role="main">
+                    <article id="post-14" class="post-14 page type-page status-publish hentry">
+                        <header class="entry-header">
+                        </header><!-- .entry-header -->
+                        <div class="entry-content">
+                            <div class="wp-block-columns">
+                                <div class="wp-block-column">
+                                    <div class="wp-block-columns">
+                                        <div class="wp-block-column">
+                                            <div class="row">
+                                                <div class="col-md-6" style="text-align:justify">
+                                                    <p class="has-text-color has-large-font-size"
+                                                       style="color:#b3cd2c"><strong>Introducción</strong>:
+                                                    </p>
+
+                                                    <p class="has-normal-font-size"><br>La innovación es cambio y estar abiertos a mejorar productos, procesos y servicios. 
+                                                        Ya sea incorporando nuevas ideas o transformando completamente como algo se hace, 
+                                                        la innovación es clave para atender los retos que se enfrentan en la actualidad.</p>
+
+                                                    <p class="has-normal-font-size">Cuando las grandes máquinas, el equipo pesado y los materiales complejos no eran la orden del día en el sector de la construcción, 
+                                                        aún se construían estructuras masivas que todavía ven la luz del sol hoy en día. 
+                                                        Por suerte, ahora tenemos muchas maneras de facilitar esta labor. 
+                                                        Sin embargo, aún nos falta un largo recorrido en cuanto a innovación se refiere.<br></p>
+
+
+                                                    <p class="has-normal-font-size">Por ello es necesario dar un mayor impulso a la construcción sustentable, 
+                                                        la reutilización o creación de nuevos materiales 
+                                                        y tecnologías que limiten el uso de recursos naturales.<br></p>
+
+
+                                                    <p class="has-normal-font-size">Promover soluciones sostenibles para la industria y así reducir su impacto ambiental.<br></p>
+
+                                                    <p class="has-normal-font-size">Construir para las ciudades del futuro con tecnología más inteligente, 
+                                                            métodos y materiales de construcción innovadores, nuevas fuentes de energía 
+                                                            y una mejor gestión de activos y recursos.<br></p>
+
+                                                    <p class="has-normal-font-size">Optimizar la gestión de la cadena de suministro para facilitar a los profesionales 
+                                                        de la construcción la obtención de materiales y servicios, 
+                                                        el seguimiento de sus flotas y una mejor gestión del inventario.<br></p>
+
+                                                    <p class="has-normal-font-size">Mejorar la productividad, 
+                                                        eficiencia y calidad de los trabajos de construcción 
+                                                        mediante un lugar de trabajo más conectado y monitoreado.<br></p>
+                                                </div>
+                                                <div class="col-md-6"><br><br><br><br>
+                                                    <!--<video width="100%" controls muted autoplay="autoplay">-->
+                                                        <!--<source src="../videos/convocatoria.mov" type="video/mp4">-->
+                                                        <iframe width="560" height="315" src="https://www.youtube.com/embed/Qr7vcbMiuRo" title="YouTube video player" frameborder="0" 
+                                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                                                
+                                                    <!--</video>-->
+                                                    <figure class="wp-block-audio">
+                                                        <audio controls=""
+                                                            src="https://sctinnova.sct.gob.mx/audios/intro.m4a" style="width: 540px;"></audio>
+                                                    </figure>
+                                                </div>
+                                            </div>
+                                            <p class="has-text-color has-large-font-size" style="color:#b3cd2c">
+                                                <strong>Objetivo</strong>:
+                                            </p>
+                                            <p class="has-normal-font-size" style="text-align:justify"><br>Potenciar  y  promover iniciativas  científicas,  
+                                            tecnológicas y de innovación en  estudiantes  de educación superior a nivel licenciatura,
+                                            maestría y doctorado a través de la creación de alternativas sustentables, procedimientos 
+                                            y tecnológicas para la construcción, inspiradas en la preservación del ambiente 
+                                            y mejoramiento de los contextos sociales y económicos.</p>
+                                            <p class="has-text-color has-large-font-size" style="color:#b3cd2c">
+                                                <strong>Objetivos
+                                                    Específicos</strong>:
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <ol class="has-normal-font-size" style="text-align:justify">
+                                        <li>Estimular iniciativas que contribuyan a la solución 
+                                            de una problemática para la preservación del ambiente, 
+                                            el desarrollo social, tecnológico  o impacto económico.
+                                        </li>
+                                        <li>Fomentar la innovación por medio del desarrollo tecnológico 
+                                            y sustentable de los recursos.
+                                        </li>
+                                        <li>Animar la capacidad creadora de los futuros profesionistas de la construcción.
+                                        </li>
+                                        <li>Promover la vinculación entre instituciones de educación superior 
+                                            y la Secretaría de Infraestructura Comunicaciones y Transportes
+                                        </li>
+                                    </ol>
+                                    <p class="has-text-color has-large-font-size" style="color:#b3cd2c">
+                                        <strong>Categorías</strong>
+                                    </p>
+                                </div>
+                            </div>
+                            <p class="has-normal-font-size" style="text-align:justify"><strong>Categoría Innovación de Materiales</strong>: en esta categoría los materiales deben cubrir las necesidades 
+                                de los usuarios finales a través de mejoras en los productos o procesos ya existentes, 
+                                o bien crear y desarrollar algo completamente nuevo con el fin de conseguir una mayor diferenciación 
+                                o una reducción en los costes, como alternativas pueden proceder de fuentes abundantes, renovables 
+                                y locales que consuman poca energía, siendo provenientes de sitios de extracción certificados, 
+                                que sean no contaminantes/no tóxicos.
+                            </p>
+                            <p class="has-normal-font-size" style="text-align:justify">La Incorporación de materiales reciclados en el proceso productivo, 
+                                deberá ser primordial el resultado del prototipo de este material, 
+                                también debe considerar un precio accesible.
+                            </p>
+                            <p class="has-normal-font-size" style="text-align:justify"><strong>Categoría Residuos de la Construcción y Demolición (RCD)</strong>: su particularidad se basa en la reutilización 
+                                y disposición final de residuos de la construcción y demolición.</p>
+                            <p class="has-normal-font-size" style="text-align:justify"><strong>Categoría Ecotecnia</strong>: esta categoría se encuentra enfocada a los sistemas de instalaciones, 
+                                herramientas y otro tipo de innovaciones que se pueden adaptar 
+                                a cualquier espacio habitable, ayudan a conservar y restablecer el equilibrio natural.</p>
+                                <p class="has-normal-font-size" style="text-align:justify"><strong>Categoría Tecnología</strong>: esta categoría se enfoca en toda aquella tecnología desarrollada 
+                                para apoyar a eficientar las actividades de y/o las variantes del sector de la construcción.</p>    
+                                <p class="has-text-color has-large-font-size" style="color:#b3cd2c; text-align:justify"><strong>Quiénes
+                                    Pueden
+                                    Participar:</strong></p>
+                            <ul class="has-normal-font-size" style="text-align:justify">
+                                <li>Los estudiantes de las universidades e Institutos de Educación Superior nivel Licenciatura, 
+                                    los participantes deberán conformar grupos escolares con un máximo de 5 estudiantes 
+                                    y un mínimo de 1, más un profesor tutor.
+                                </li>
+                                <li>Cada establecimiento educacional podrá presentar uno o 2 equipos a la feria.
+                                </li>
+                                <li>Un estudiante puede formar parte de un solo equipo.</li>
+                                <li>Un profesor tutor puede ser el coordinador de máximo dos equipos de un mismo
+                                    establecimiento.
+                                </li>
+                                <li>La inscripción de los grupos se debe realizar a través del portal sctinnova@
+                                    .sct.gob.mx, solamente el profesor tutor podrá realizar el registro del equipo
+                                    participante.
+                                </li>
+                            </ul>
+                            <blockquote class="wp-block-quote is-style-large">
+                                <p><strong>Fases De Participación Para La
+                                        Feria De Innovación En La Construcción SICT.</strong></p>
+                            </blockquote>
+                            <p class="has-normal-font-size" style="text-align:justify">La publicación en el micrositio de la SICT contempla las
+                                siguientes fases:</p>
+
+
+
+                            <p class="has-text-color has-normal-font-size" style="color:#b3cd2c"><strong>Fase de
+                                    Inscripción y registro</strong>:</p>
+                            <p class="has-normal-font-size">A través de la página sctinnova@.sct.gob.mx los equipos
+                                podrán descargar las bases del concurso. La postulación será a partir del <u>04 de julio al 18 de noviembre de 2022.</u></p>
+                            <p class="has-normal-font-size" style="font-style:italic">El profesor tutor inscrito deberá enviar al correo la
+                                siguiente información:</p>
+                            <p class="has-normal-font-size">a) Identificación oficial.
+                                <br>b) C.U.R.P.
+                                <br>c) Comprobante de domicilio con vigencia no mayor a 3 meses.
+                                <br>d) Breve currículum o semblanza del participante.
+                                <br>f) Bocetos o maquetas de la obra propuesta, si el proyecto lo amerita
+                            </p>
+                            <p class="has-text-color has-normal-font-size" style="color:#b3cd2c"><strong>Fase de
+                                    evaluación de proyectos</strong>:</p>
+                            <p class="has-normal-font-size">El periodo de evaluación y selección de los proyectos
+                                ganadores será del <u>21 de noviembre al 09 de diciembre de 2022.</u></p>
+                            <p class="has-normal-font-size"><u>La publicación de resultados será el día 12 de
+                                diciembre de 2022,</u> se dará aviso vía telefónica y correo electrónico a los grupos ganadores 
+                                de la Feria de innovación de la construcción SICT.</p>
+                            <p class="has-text-color has-normal-font-size" style="color:#b3cd2c"><strong>Fase
+                                    Presentación Y Premiación De Los Proyectos</strong>:</p>
+                            <p class="has-normal-font-size">La ceremonia de premiación y reconocimiento a los grupos participantes 
+                                se realizará con los equipos ganadores, en la cual deberán exponer sus proyectos; 
+                                la fecha y lugar serán notificados oportunamente.</p>
+                            <p class="has-text-color has-normal-font-size" style="color:#b3cd2c"><strong>Pasos
+                                    Requeridos Para El Proyecto</strong></p>
+                            <p class="has-normal-font-size" style="text-align:justify">Observación, planificación y conducción de una investigación. Análisis de las evidencias y comunicación.</p>
+                            <p class="has-normal-font-size" style="text-align:justify">Los participantes deberán involucrarse directamente con los conceptos del proyecto, poniendo en práctica sus habilidades científicas.</p>
+                            <p class="has-normal-font-size" style="text-align:justify">
+                            Para la etapa de observación, se debe desarrollar contenido audiovisual,  bocetos, dibujos y contenido escrito.
+                            </p>
+                            <p class="has-normal-font-size" style="text-align:justify">
+                            Deberán desarrollar un plan de trabajo, establecer sus propios compromisos y recurrir a diversas fuentes de información.
+                            </p>
+                            <p class="has-normal-font-size" style="text-align:justify">
+                            Los participantes deberán ser proactivos en la conducción de las actividades, desarrollando las tareas propuestas por ellos.
+                            </p>
+                            <p class="has-normal-font-size" style="text-align:justify">
+                            Para la etapa de planificación y conducción de la investigación, los alumnos pueden realizar diversas conexiones entre los conceptos del proyecto y las potenciales aplicaciones en el mundo de la construcción. El objetivo es articular con el jurado las observaciones que hayan realizado.
+                            </p>
+                            <p class="has-normal-font-size" style="text-align:justify">
+                            Deberán  recurrir  a  las  evidencias  para  respaldar  sus  ideas,  obtener  resultados,  otorgar explicaciones y extraer conclusiones.
+                            </p>
+                            <p class="has-normal-font-size" style="text-align:justify">
+                            Los participantes deberán comunicar de forma oral y escrita sus evidencias, conclusiones y reflexiones.
+                            </p>
+                            <p class="has-normal-font-size" style="text-align:justify">
+                            La descripción innovadora de los proyectos deberá contar con un informe escrito no más de 10 hojas en formato PDF, de 1 a 2 infografía de 90 cm de ancho x 120 cm de alto, la cual debe contener las etapas de la investigación que han realizado como equipo y un modelo o maqueta de su innovación, si es que lo amerite.
+                            </p>
+                            <p class="has-normal-font-size" style="text-align:justify">
+                            Descargar el instructivo de indicaciones específicas del proyecto y uso de la plataforma (lo podrán encontrar en la pestaña de registro). 
+                            </p>
+
+
+                            <p class="has-text-color has-normal-font-size" style="color:#b3cd2c"><strong>Criterios
+                                    De
+                                    Selección</strong></p>
+
+
+                            <p class="has-normal-font-size" style="text-align:justify">La valoración de los proyectos presentados se basará en los siguientes criterios de selección:</p>
+
+
+                            <ol class="has-normal-font-size" style="text-align:justify">
+                                <li>El potencial de impacto social en una de las tres categorías.</li>
+                                <li>El carácter innovador del proyecto presentado a concurso y los argumentos que demuestran su potencial con el que pueda ser una realidad abordando un problema social, ambiental, económico.
+                                </li>
+                                <li>Viabilidad del proyecto, tanto técnica como económica y organizativa.</li>
+                                <li>Capacidad y experiencia del equipo para desarrollar la propuesta presentada y grado de implicación.
+                                </li>
+                                <li>Madurez de la idea, demostrada en los resultados de pruebas/piloto iniciales y programas experimentales (alcance, dimensión, indicadores, aprendizaje, aplicación).
+                                </li>
+                            </ol>
+
+
+                            <p class="has-text-color has-normal-font-size" style="color:#b3cd2c">
+                                <strong>Jurado</strong>
+                            </p>
+
+
+                            <ul class="has-normal-font-size">
+                                <li>Personajes del gremio</li>
+                                <li>Ingenieros especialistas de la SICT y otras dependencias</li>
+                                <li>Personal del Organismo Nacional de Normalización y Certificación de la Construcción y Edificación (ONNCCE)</li>
+                            </ul>
+
+
+                            <p class="has-text-color has-normal-font-size" style="color:#b3cd2c">
+                                <strong>Premiación</strong>
+                            </p>
+
+
+                            <p class="has-normal-font-size" style="text-align:justify">Se premiará al primer lugar de cada categoría, obteniendo un reconocimiento de la SICT, difusión del proyecto en los canales institucionales de la SICT, exposición con incubadoras de empresas, asesoramiento de los gremios correspondientes al tema, enlazar con Instituto Nacional de Derechos de autor (INDAUTOR) y Instituto Mexicano de la Propiedad Industrial (IMPI) para el registro de su proyecto.</p>
+                        </div><!-- .entry-content -->
+                    </article><!-- #post-## -->
+                </main><!-- #main -->
+            </div><!-- #primary -->
+
+
+        </div>
+        <!--#content-inside -->
+    </div><!-- #content -->
+
+    <footer id="colophon" class="site-footer" role="contentinfo">
+
+        <div class="site-info">
+            <div class="container">
+                <div class="btt">
+                    <a class="back-to-top" href="#page" title="Volver arriba" role="link"><i
+                                class="fa fa-angle-double-up wow flash" data-wow-duration="2s"
+                                style="visibility: hidden; animation-duration: 2s; animation-name: none;"></i></a>
+                </div>
+            </div>
+        </div>
+        <!-- .site-info -->
+
+    </footer><!-- #colophon -->
+</div><!-- #page -->
+
+
+<script type="text/javascript"
+        src="../wp-content/themes/onepress/assets/js/plugins.js?ver=2.2.7"
+        id="onepress-js-plugins-js"></script>
+<script type="text/javascript"
+        src="../wp-content/themes/onepress/assets/js/bootstrap.min.js?ver=2.2.7"
+        id="onepress-js-bootstrap-js"></script>
+<script type="text/javascript" id="onepress-theme-js-extra">
+    /* <![CDATA[ */
+    var onepress_js_settings = {
+        "onepress_disable_animation": "0",
+        "onepress_disable_sticky_header": "",
+        "onepress_vertical_align_menu": "",
+        "hero_animation": "flipInX",
+        "hero_speed": "5000",
+        "hero_fade": "750",
+        "hero_duration": "5000",
+        "hero_disable_preload": "",
+        "is_home": "",
+        "gallery_enable": "1",
+        "is_rtl": ""
+    };
+    /* ]]> */
+</script>
+<script type="text/javascript"
+        src="../wp-content/themes/onepress/assets/js/theme.js?ver=2.2.7" id="onepress-theme-js">
+</script>
+<script type="text/javascript" id="pojo-a11y-js-extra">
+    /* <![CDATA[ */
+    var PojoA11yOptions = {
+        "focusable": "1",
+        "remove_link_target": "1",
+        "add_role_links": "1",
+        "enable_save": "1",
+        "save_expiration": "12"
+    };
+    /* ]]> */
+</script>
+<script type="text/javascript"
+        src="../wp-content/plugins/pojo-accessibility/assets/js/app.min.js?ver=1.0.0"
+        id="pojo-a11y-js"></script>
+<script type="text/javascript" src="../wp-includes/js/wp-embed.min.js?ver=5.8"
+        id="wp-embed-js"></script>
+
+
+</body>
+
+</html>
